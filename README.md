@@ -6,8 +6,7 @@ A dark themed static portfolio website for Tisha S Jain, focused on business ana
 
 - `index.html` — page structure and portfolio content.
 - `styles.css` — responsive dark theme and layout.
-- `script.js` — mobile navigation, scroll progress, subtle reveal animations, and dynamic footer year.
-- `Tisha-S-Jain-Resume.txt` — downloadable resume content linked from the hero CTA.
+- `script.js` — mobile navigation and dynamic footer year.
 
 ## Run locally
 
