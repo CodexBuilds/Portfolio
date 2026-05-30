@@ -1,18 +1,18 @@
 TISHA S JAIN
-Data Analyst / Aspiring Data Scientist | Business Analytics, Forecasting, SQL, Python, Tableau, Power BI
+Data Analyst / Data Scientist | Business Analytics, Forecasting, SQL, Python, Tableau, Power BI
 Email: tishajain021202@gmail.com | Phone: +91 9663726837
 LinkedIn: linkedin.com/in/tisha-jain-a7a07421b | GitHub: github.com/tisha-j
 
 PROFESSIONAL SUMMARY
-Data Analyst and aspiring Data Scientist focused on transforming complex datasets into actionable business insights through analytics, forecasting, and machine learning. Skilled in Python, SQL, Tableau, Power BI, KPI analysis, and data storytelling, with experience supporting sales analysis, inventory decisions, customer insights, profitability analysis, and reporting automation.
+Data Science graduate and business analytics professional skilled in Python, SQL, Tableau, Power BI, KPI analysis, forecasting, and data storytelling. Experienced in operational analytics, dashboard development, automation, retail insights, and machine learning workflows that support business decision-making.
 
 TECHNICAL SKILLS
-Programming: Python, SQL, Java
-Analytics: Pandas, NumPy, statistics, forecasting, EDA, KPI analysis, business analytics
-Machine Learning: Supervised learning, unsupervised learning, deep learning, CNN workflows, preprocessing, feature engineering
+Programming: Python, SQL
+Data Analysis: EDA, KPI analysis, statistical analysis, data cleaning, business analytics
+Machine Learning: Forecasting, CNN workflows, preprocessing, feature engineering
 Visualization: Tableau, Power BI, Matplotlib
 Databases: SQLite, SQL querying
-Tools & Platforms: Jupyter Notebook, Git, Excel, Hadoop
+Tools & Platforms: Pandas, NumPy, Excel, Git, Jupyter Notebook
 
 PROFESSIONAL EXPERIENCE
 Freelance Data Analytics & Automation Developer | Remote | May 2025 - Present
@@ -27,25 +27,19 @@ AI Systems Evaluator | Outlier.ai | Sept 2024 - May 2025
 - Documented analytical findings and validation reports to improve model evaluation consistency.
 
 Data Analyst (Part-Time) | Decathlon Sports India, Mysuru | Nov 2022 - Oct 2023
-- Analyzed sales trends, customer behavior, inventory movement, and marketing campaign performance across 2,000+ SKUs.
-- Supported stock planning and merchandising decisions through KPI reporting and Excel/SQL-based analysis.
-- Contributed to a 10% monsoon collection sales increase through campaign analysis and demand-focused planning.
-- Supported broader analytics-led retail planning linked to approximately 50% seasonal sales growth.
+- Analyzed sales and inventory trends across 2,000+ SKUs to support stock planning and merchandising decisions.
+- Supported analytics-led planning linked to approximately 50% seasonal sales growth.
+- Built Excel and SQL-based reports for operational KPI tracking and performance analysis.
 
 PROJECTS
-Food Delivery Cost & Profitability Analysis | Python, SQL, Power BI
-- Analyzed delivery costs, operational risk, and profitability drivers across traffic, weather, vehicle, and delivery performance variables.
-- Built KPI workflows and 4 interactive Power BI dashboard views for executive reporting, operations, profitability, and strategic decision support.
-- Identified profitability patterns and generated visual business insights for margins, efficiency, and operational planning.
+Food Delivery Operational Intelligence System | Python, SQL, Power BI
+- Built an end-to-end operational analytics and BI system analyzing delivery profitability, operational risk, and delivery efficiency.
+- Developed 4 interactive Power BI dashboards for executive reporting, operational monitoring, profitability analysis, and strategic insights.
+- Performed traffic, weather, and vehicle-based operational analysis using Python, SQL, Pandas, and SQLite.
 
 Sign Language Detection System | Python, OpenCV, Keras
 - Developed a real-time gesture recognition system using CNN-based computer vision workflows.
-- Used OpenCV, Keras, preprocessing, and hand tracking concepts to improve gesture detection quality.
-- Demonstrated applied machine learning for accessibility-focused applications.
-
-Sales, Inventory & Campaign Analytics | Excel, SQL
-- Analyzed 2,000+ SKUs to identify sales trends, customer demand signals, inventory movement, and campaign outcomes.
-- Supported inventory decisions and marketing campaign analysis connected to a 10% monsoon collection sales increase.
+- Improved detection performance through optimized preprocessing and feature engineering techniques.
 
 EDUCATION
 Bachelor of Computer Applications (BCA) - Cloud Computing & Data Science
