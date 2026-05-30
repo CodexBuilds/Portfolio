@@ -4,9 +4,10 @@ A dark themed static portfolio website for Tisha S Jain, focused on business ana
 
 ## Files
 
-- `index.html` — page structure and portfolio content.
-- `styles.css` — responsive dark theme and layout.
-- `script.js` — mobile navigation and dynamic footer year.
+* `index.html` — page structure and portfolio content.
+* `styles.css` — responsive dark theme and layout.
+* `script.js` — mobile navigation, scroll progress, subtle reveal animations, and dynamic footer year.
+* `Tisha-S-Jain-Resume.txt` — downloadable resume content linked from the hero CTA.
 
 ## Run locally
 
@@ -16,4 +17,26 @@ Open `index.html` directly in a browser, or serve the folder with any static ser
 python3 -m http.server 8000
 ```
 
-Then visit `http://localhost:8000`.
+Then visit:
+
+```text
+http://localhost:8000
+```
+
+## Resume download
+
+The hero Download Resume button currently links to `Tisha-S-Jain-Resume.txt`.
+
+To use a PDF resume instead:
+
+1. Add your PDF resume file to the project folder
+2. Update the `href` attribute in `index.html`
+3. Replace the current `.txt` file link with your PDF filename
+
+Example:
+
+```html
+<a href="Tisha-S-Jain-Resume.pdf" download>
+  Download Resume
+</a>
+```
